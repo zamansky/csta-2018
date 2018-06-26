@@ -34,10 +34,9 @@
 
 - 2016 - Hunter starts talking to Albany
 - 2017 - My fist visit to Albany
-#+BEGIN_NOTES 
+#+BEGIN_NOTES
 Opposition from NYSUT
 Interest across state
-
 #+END_NOTES
 
 
