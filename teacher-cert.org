@@ -37,7 +37,6 @@ Interest across state
 
 #+END_NOTES
 
-Opposition
 
 * Certification requirements
 - P12 license
