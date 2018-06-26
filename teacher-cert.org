@@ -6,6 +6,7 @@
 #+EMAIL: Email: mz631@hunter.cuny.edu<br>Twitter: @zamansky
 
 
+
 * Who am I
 - 26 year public school teacher
 - Licensed in math, taught CS
