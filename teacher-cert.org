@@ -92,17 +92,17 @@ pair programming etc.
 
 * Extras
 - Must be worked throughout the core
-#+ATTR_REVEAL: :frag t
 - Ethics
-#+ATTR_REVEAL: :frag t
 - Full pipeline sensibilities
-  - designing full experiences
-  - teachers who know full pipeline from previous grades to workforce
-#+ATTR_REVEAL: :frag t
+   - designing full experiences
+   - teachers who know full pipeline from previous grades to workforce
+ 
+* Extras 
 - Tools
-  - Using real tools throughout the program
-  - Leave teachers with at least one practical set of tools-
-  - Example: GitHub in teacher program -> GitHub in classrooms (demo)
+   - Using real tools throughout the program
+   - Leave teachers with at least one practical set of tools-
+   - Example:
+     - GitHub in teacher program -> GitHub in classrooms (demo)
 
 * Ongoing support
 - Ongoing PD at Hunter
