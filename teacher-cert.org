@@ -1,35 +1,70 @@
 #+REVEAL_ROOT: ./reveal.js/
-
-
-#+OPTIONS: toc:nil num:nil date:nil email:t
-#+TITLE: K12 Teacher Certification in NY
-#+AUTHOR: Mike Zamansky
-#+EMAIL: mz631@hunter.cuny.edu<br>@zamansky
 #+REVEAL_THEME: serif
+#+OPTIONS: toc:nil num:nil date:nil email:t
+#+TITLE: Teacher Certification in NY
+#+AUTHOR: Mike Zamansky
+#+EMAIL: Email: mz631@hunter.cuny.edu<br>Twitter: @zamansky
+
+
 * Who am I
+- 26 year public school teacher
+- Licensed in math, taught CS
+#+ATTR_REVEAL: :frag t
+- Resident Curmudgeon in the NYC CS Ed space
 
-* What's going on in NY City
-2012 - AFSE - no thought about teacher prep
-2015 - CS4All - PD based
-#+BEGIN_NOTES
-  Enter speaker notes here.
+  [[file:./muppets-statler-waldorf.jpg]]
+
+* NYC History
+- Spring 1984 - FIrst administration of APCS
+- 1990s
+  - Computer Math
+  - Misc Programming classes
+  - APCS A / AB
+- Late 90s, early 2000s
+  - Lobbying from individual teachers
+#+REVEAL: split
+- ~2009
+  - NY Tech players become involved
+  - NYC Mayor Bloomberg becomes involved
+- 2012 - AFSE
+- 2015 - Mayor di Blasio CS4All 
+- 2016 - Hunter starts talking to Albany
+- 2017 - My fist visit to Albany
+#+BEGIN_NOTES: 
+Opposition from NYSUT
+Interest across state
+
 #+END_NOTES
-
-
-* What's going on in NY State
-- I first visited in 2017
-
 
 Opposition
 
 * Certification requirements
+- P12 license
+- 12 CS Credits in program
+- 50 fieldwork hours for certificate
+
+* Why Hunter
+- Long standing reputation for teacher prep
+- Hidden strengths of the program
 
 * Hallmarks of Hunter's approach
 **  Designed from a practitioner perspective
 ** Not tied to any particular course, framework or curriculum
-** Need to give tools + content + pedagogy + extras
+** Combines
+- Content
+- Pedagogy
+- "Extras"
+  - Ethics
+  - Tools
+  - Full pipeline sensibilities
 
 
+
+
+* stuff woven through classes
+- ethics
+- cross discipline
+- specific tools (git)]
 * Drill down
 
 
