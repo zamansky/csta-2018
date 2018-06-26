@@ -1,0 +1,138 @@
+#+REVEAL_ROOT: ./reveal.js/
+
+
+#+OPTIONS: toc:nil num:nil date:nil email:t
+#+TITLE: K12 Teacher Certification in NY
+#+AUTHOR: Mike Zamansky
+#+EMAIL: mz631@hunter.cuny.edu<br>@zamansky
+#+REVEAL_THEME: serif
+* Who am I
+
+* What's going on in NY City
+2012 - AFSE - no thought about teacher prep
+2015 - CS4All - PD based
+#+BEGIN_NOTES
+  Enter speaker notes here.
+#+END_NOTES
+
+
+* What's going on in NY State
+- I first visited in 2017
+
+
+Opposition
+
+* Certification requirements
+
+* Hallmarks of Hunter's approach
+**  Designed from a practitioner perspective
+** Not tied to any particular course, framework or curriculum
+** Need to give tools + content + pedagogy + extras
+
+
+* Drill down
+
+
+Hunter brought me in to go between CS and Ed to design program 
+which makes it better than anyone else 
+
+
+
+Methods
+
+pedagogy
+
+content
+
+clinical tied to methods
+
+curriculum development that works
+* NY CITY
+SEP / SEP JR
+TEALS
+Independent stuff
+
+* NY State
+
+Classified same as dance
+K12 license
+
+Algorithms and Programming	
+Computing Systems	
+Data and Analysis	
+Impacts of computing	
+Networks and the Internet
+
+12 CS credits in program
+
+* GitHub Demo for pulling all classes
+
+* Leave teachers with a specific tool set
+- use tools like GitHub etc throughout class and program
+
+
+* Cert
+** Methods 1
+- what is CS
+- Anatomy of lesson
+- Overview of existing courses / frameworks
+- scheme / netlogo
+  - choosing tool for jobs -- what each is good at
+- incremental problems
+- other peoples code
+- pair programming
+- unit design / pacing
+- live coding
+- project design
+- using social tools
+- note taking
+- student workflows
+
+** Methods 2
+- review of standards
+- manageing a CS class / differentiation
+- collaborative tools
+- reading for CS
+- code reading / snippets
+- copying / collaborating
+- HOMEWORK and all about it
+- data driven assignments
+- scaffolding
+- learning through mistakes
+- code review
+=
+** Curriculum
+- survey
+- case study of locally designed class
+- sharing school info
+- different approaches to curr design
+   Slideshare on curriculum approaches: http://www.slideshare.net/iansagabaen28/curriculum-approaches-41755984
+   Assignment: Prepare outline of key elements and concerns for the curriculum you will ppdesign (outcomes, population information, etc.).
+- using tech tools
+- unit develop
+- developing assessments and assignments
+- including ancilalry topics 
+
+** Programming (new course)
+** Data Structures
+** Algorithms
+
+
+** Topics
+Data structures
+Web Dev
+Data Analysis
+Function Programming
+ML
+AI
+Graphics
+Vision
+
+
+** Fieldwork
+
+* Masters
+Same + ped core
+
+* Alt Cert
+
