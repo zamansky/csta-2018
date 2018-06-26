@@ -28,146 +28,85 @@
   - NY Tech players become involved
   - NYC Mayor Bloomberg becomes involved
 - 2012 - AFSE
-- 2015 - Mayor di Blasio CS4All 
+- 2015 
+  - Mayor di Blasio CS4All 
+  - Programs like SEP, TEALS and others
+
 - 2016 - Hunter starts talking to Albany
 - 2017 - My fist visit to Albany
-#+BEGIN_NOTES: 
+#+BEGIN_NOTES 
 Opposition from NYSUT
 Interest across state
 
 #+END_NOTES
 
 
-* Certification requirements
+* NY State Certification Requirements
 - P12 license
 - 12 CS Credits in program
 - 50 fieldwork hours for certificate
+- Five major "areas":
+  - Algorithms and Programming	
+  - Computing Systems	
+  - Data and Analysis	
+  - Impacts of computing	
+  - Networks and the Internet
 
 * Why Hunter
 - Long standing reputation for teacher prep
 - Hidden strengths of the program
 
 * Hallmarks of Hunter's approach
-**  Designed from a practitioner perspective
-** Not tied to any particular course, framework or curriculum
-** Combines
+-  Designed from a practitioner perspective
+- Active involvment from both CS and Ed sides
+- Not tied to any particular course, framework or curriculum
+- Combines
 - Content
 - Pedagogy
-- "Extras"
+- "Extras" woven througout
   - Ethics
   - Tools
   - Full pipeline sensibilities
 
+* Content
+- Depth
+- Breadth
+- Fulfilling state requirements
+#+BEGIN_NOTES
+no math for math teacher courses
+#+END_NOTES
+* Pedagogy
+- Methods 1 and 2
+- Curriculum development
+- Content in ed courses.
+#+BEGIN_NOTES
+choosing a langauge
+other peoples code
+code reading
+pair programming etc.
+#+END_NOTES
+* Fieldwork
+- All grade bands
+- Finding suitable placements
+- making it legal
+- making it good
 
+* Extras
+- Must be worked throughout the core
+#+ATTR_REVEAL: :frag t
+- Ethics
+#+ATTR_REVEAL: :frag t
+- Full pipeline sensibilities
+  - designing full experiences
+  - teachers who know full pipeline from previous grades to workforce
+#+ATTR_REVEAL: :frag t
+- Tools
+  - Using real tools throughout the program
+  - Leave teachers with at least one practical set of tools-
+  - Example: GitHub in teacher program -> GitHub in classrooms (demo)
 
+* Ongoing support
+- Ongoing PD at Hunter
+- Ongoing outside PD
 
-* stuff woven through classes
-- ethics
-- cross discipline
-- specific tools (git)]
-* Drill down
-
-
-Hunter brought me in to go between CS and Ed to design program 
-which makes it better than anyone else 
-
-
-
-Methods
-
-pedagogy
-
-content
-
-clinical tied to methods
-
-curriculum development that works
-* NY CITY
-SEP / SEP JR
-TEALS
-Independent stuff
-
-* NY State
-
-Classified same as dance
-K12 license
-
-Algorithms and Programming	
-Computing Systems	
-Data and Analysis	
-Impacts of computing	
-Networks and the Internet
-
-12 CS credits in program
-
-* GitHub Demo for pulling all classes
-
-* Leave teachers with a specific tool set
-- use tools like GitHub etc throughout class and program
-
-
-* Cert
-** Methods 1
-- what is CS
-- Anatomy of lesson
-- Overview of existing courses / frameworks
-- scheme / netlogo
-  - choosing tool for jobs -- what each is good at
-- incremental problems
-- other peoples code
-- pair programming
-- unit design / pacing
-- live coding
-- project design
-- using social tools
-- note taking
-- student workflows
-
-** Methods 2
-- review of standards
-- manageing a CS class / differentiation
-- collaborative tools
-- reading for CS
-- code reading / snippets
-- copying / collaborating
-- HOMEWORK and all about it
-- data driven assignments
-- scaffolding
-- learning through mistakes
-- code review
-=
-** Curriculum
-- survey
-- case study of locally designed class
-- sharing school info
-- different approaches to curr design
-   Slideshare on curriculum approaches: http://www.slideshare.net/iansagabaen28/curriculum-approaches-41755984
-   Assignment: Prepare outline of key elements and concerns for the curriculum you will ppdesign (outcomes, population information, etc.).
-- using tech tools
-- unit develop
-- developing assessments and assignments
-- including ancilalry topics 
-
-** Programming (new course)
-** Data Structures
-** Algorithms
-
-
-** Topics
-Data structures
-Web Dev
-Data Analysis
-Function Programming
-ML
-AI
-Graphics
-Vision
-
-
-** Fieldwork
-
-* Masters
-Same + ped core
-
-* Alt Cert
 
