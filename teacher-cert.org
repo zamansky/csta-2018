@@ -5,8 +5,17 @@
 #+AUTHOR: Mike Zamansky
 #+EMAIL: Email: mz631@hunter.cuny.edu<br>Twitter: @zamansky
 
-Schools that teach students over 13 can apply :) 
 
+* Thanks GitHub
+
+- GitHub Teacher Training
+  https://education.github.com/teachers/advisors
+
+- GitHub School Partners
+  https://education.github.com/partners/schools 
+#+BEGIN_NOTES
+schools that teach kids over 13 can apply
+#+END_NOTES
 
 * Who am I
 - 26 year public school teacher
@@ -15,11 +24,6 @@ Schools that teach students over 13 can apply :)
 - Resident Curmudgeon in the NYC CS Ed space
 
   [[file:./muppets-statler-waldorf.jpg]]
-
-* Thanks GitHub
-- https://education.github.com/teachers/advisors
-- https://education.github.com/partners/schools
-
 
 * NYC History
 - Spring 1984 - FIrst administration of APCS
@@ -114,4 +118,13 @@ pair programming etc.
 - Ongoing PD at Hunter
 - Ongoing outside PD
 
+
+* Differing opinions 
+- It's too hard
+- We'll lose them all to industry
+
+* Takeaways
+- Content + Pedagogy
+- Tools to support them from day 1
+- Teachers prepared to teach now and in the future
 
