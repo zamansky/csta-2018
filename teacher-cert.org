@@ -5,6 +5,7 @@
 #+AUTHOR: Mike Zamansky
 #+EMAIL: Email: mz631@hunter.cuny.edu<br>Twitter: @zamansky
 
+Schools that teach students over 13 can apply :) 
 
 
 * Who am I
@@ -14,6 +15,11 @@
 - Resident Curmudgeon in the NYC CS Ed space
 
   [[file:./muppets-statler-waldorf.jpg]]
+
+* Thanks GitHub
+- https://education.github.com/teachers/advisors
+- https://education.github.com/partners/schools
+
 
 * NYC History
 - Spring 1984 - FIrst administration of APCS
