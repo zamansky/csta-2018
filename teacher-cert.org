@@ -26,7 +26,7 @@ schools that teach kids over 13 can apply
   [[file:./muppets-statler-waldorf.jpg]]
 
 * NYC History
-- Spring 1984 - FIrst administration of APCS
+- Spring 1984 - First administration of APCS
 - 1990s
   - Computer Math
   - Misc Programming classes
@@ -43,7 +43,7 @@ schools that teach kids over 13 can apply
   - Programs like SEP, TEALS and others
 
 - 2016 - Hunter starts talking to Albany
-- 2017 - My fist visit to Albany
+- 2017 - My first visit to Albany
 #+BEGIN_NOTES
 Opposition from NYSUT
 Interest across state
@@ -51,27 +51,25 @@ Interest across state
 
 
 * NY State Certification Requirements
-- P12 license
+- K12 Certification
 - 12 CS Credits in program
 - 50 fieldwork hours for certificate
-- Five major "areas":
+- Five major "areas:"
   - Algorithms and Programming	
   - Computing Systems	
   - Data and Analysis	
   - Impacts of computing	
   - Networks and the Internet
 
-* Why Hunter
+* Why Hunter?
 - Long standing reputation for teacher prep
-- Hidden strengths of the program
+- Hidden strengths of the Hunter School of Education
 
 * Hallmarks of Hunter's approach
 -  Designed from a practitioner perspective
 - Active involvment from both CS and Ed sides
 - Not tied to any particular course, framework or curriculum
-- Combines
-- Content
-- Pedagogy
+- Combines content and pedagogy
 - "Extras" woven througout
   - Ethics
   - Tools
@@ -116,7 +114,7 @@ pair programming etc.
 
 * Ongoing support
 - Ongoing PD at Hunter
-- Ongoing outside PD
+- Ongoing PD with Tech Sector partners
 
 
 * Differing opinions 
