@@ -19,11 +19,16 @@ schools that teach kids over 13 can apply
 
 * Who am I
 - 26 year public school teacher
+- Came from industry
 - Licensed in math, taught CS
 #+ATTR_REVEAL: :frag t
 - Resident Curmudgeon in the NYC CS Ed space
 
   [[file:./muppets-statler-waldorf.jpg]]
+
+#+BEGIN_NOTES
+- came in with minimal teacher prep
+#+END_NOTES
 
 * NYC History
 - Spring 1984 - First administration of APCS
@@ -45,8 +50,9 @@ schools that teach kids over 13 can apply
 - 2016 - Hunter starts talking to Albany
 - 2017 - My first visit to Albany
 #+BEGIN_NOTES
-Opposition from NYSUT
-Interest across state
+- Opposition from NYSUT
+- Interest across state
+- Probably more industry push than academic
 #+END_NOTES
 
 
@@ -60,13 +66,17 @@ Interest across state
   - Data and Analysis	
   - Impacts of computing	
   - Networks and the Internet
+- Will create a certification exam
+- Will work on standards
 
 * Why Hunter?
 - Long standing reputation for teacher prep
 - Hidden strengths of the Hunter School of Education
-
+#+BEGIN_NOTES
+- cost/location/adjuncts
+#+END_NOTES
 * Hallmarks of Hunter's approach
--  Designed from a practitioner perspective
+- Designed from a practitioner perspective
 - Active involvment from both CS and Ed sides
 - Not tied to any particular course, framework or curriculum
 - Combines content and pedagogy
@@ -74,47 +84,62 @@ Interest across state
   - Ethics
   - Tools
   - Full pipeline sensibilities
-
+#+BEGIN_NOTES
+- curricula and frameworks  - talk about all of them
+- tools - must give teachers a practical set to start with
+#+END_NOTES
 * Content
 - Depth
 - Breadth
 - Fulfilling state requirements
 #+BEGIN_NOTES
-no math for math teacher courses
+- no math for math teacher courses
+- talk about having to rename courses
+- roughly a minor - most areas require too many credits
+
 #+END_NOTES
 * Pedagogy
 - Methods 1 and 2
 - Curriculum development
 - Content in ed courses.
 #+BEGIN_NOTES
-choosing a langauge
-other peoples code
-code reading
-pair programming etc.
+- content heavy pedagogy courses
+- choosing a language, other peoples code, code reading
+- Why curriculum course
+- curriculum course and field work
 #+END_NOTES
+
 * Fieldwork
 - All grade bands
 - Finding suitable placements
 - making it legal
 - making it good
-
 * Extras
 - Must be worked throughout the core
 - Ethics
 - Full pipeline sensibilities
    - designing full experiences
    - teachers who know full pipeline from previous grades to workforce
- 
+
+#+BEGIN_NOTES
+- Full pipeline - students from before to after they leave you
+- Modeling good teaching
+- Daily digital / current events
+ #+END_NOTES
 * Extras 
 - Tools
-   - Using real tools throughout the program
-   - Leave teachers with at least one practical set of tools-
-   - Example:
-     - GitHub in teacher program -> GitHub in classrooms (demo)
-
+  - Using real tools throughout the program
+  - Leave teachers with at least one practical set of tools-
+    - GitHub in teacher program -> GitHub in classrooms
+    - Slack / mail lists
+    - transition - learning IDEs vs pro tools 
 * Ongoing support
 - Ongoing PD at Hunter
 - Ongoing PD with Tech Sector partners
+#+BEGIN_NOTES
+- CTLE hours
+- Intern at tech companies
+#+END_NOTES
 
 
 * Differing opinions 
@@ -125,4 +150,9 @@ pair programming etc.
 - Content + Pedagogy
 - Tools to support them from day 1
 - Teachers prepared to teach now and in the future
+
+* Conversation
+
+
+
 
