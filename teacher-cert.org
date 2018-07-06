@@ -70,7 +70,7 @@ schools that teach kids over 13 can apply
 - Will create a certification exam
 - Will work on standards
 #+BEGIN_NOTES
-- Why k12 is bad 
+- Why k12 is bad - too much for elementary teachers
 #+END_NOTES
 
 * Why Hunter?
@@ -81,7 +81,7 @@ schools that teach kids over 13 can apply
 #+END_NOTES
 * Hallmarks of Hunter's approach
 - Designed from a practitioner perspective
-- Active involvment from both CS and Ed sides
+- Active involvement from both CS and Ed sides
 - Not tied to any particular course, framework or curriculum
 - Combines content and pedagogy
 - "Extras" woven througout
@@ -97,10 +97,10 @@ schools that teach kids over 13 can apply
 - Breadth
 - Fulfilling state requirements
 #+BEGIN_NOTES
+- talk about each bullet in depth 
 - no math for math teacher courses
 - talk about having to rename courses
 - roughly a minor - most areas require too many credits
-
 #+END_NOTES
 * Pedagogy
 - Methods 1 and 2
@@ -122,12 +122,14 @@ schools that teach kids over 13 can apply
 - Must be worked throughout the core
 - Ethics
 - Full pipeline sensibilities
-   - designing full experiences
+   - designing full experiences for students
    - teachers who know full pipeline from previous grades to workforce
 
 #+BEGIN_NOTES
 - Full pipeline - students from before to after they leave you
-- Modeling good teaching
+- Fill pipelnie - teachers - all the way to continuing pd
+- Modeling good teaching 
+- Modeling good CS
 - Daily digital / current events
  #+END_NOTES
 * Extras 
@@ -137,6 +139,12 @@ schools that teach kids over 13 can apply
     - GitHub in teacher program -> GitHub in classrooms
     - Slack / mail lists
     - transition - learning IDEs vs pro tools 
+#+BEGIN_NOTES
+- must be baked in 
+  - talk about why ethics course "bad" even though I'm making ones
+- tools lets you model 
+  - maybe show GitHub or at least talk about it.
+#+END_NOTES
 * Ongoing support
 - Ongoing PD at Hunter
 - Ongoing PD with Tech Sector partners
@@ -147,6 +155,7 @@ schools that teach kids over 13 can apply
 
 
 * Differing opinions 
+- Not enough jobs for full time teachers
 - It's too hard
 - We'll lose them all to industry
 
