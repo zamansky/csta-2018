@@ -85,7 +85,7 @@ schools that teach kids over 13 can apply
 - Active involvement from both CS and Ed sides
 - Not tied to any particular course, framework or curriculum
 - Combines content and pedagogy
-- "Extras" woven througout
+- "Extras" woven throughout
   - Ethics
   - Tools
   - Full pipeline sensibilities
