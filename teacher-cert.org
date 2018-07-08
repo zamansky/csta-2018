@@ -1,7 +1,7 @@
 #+REVEAL_ROOT: ./reveal.js/
 #+REVEAL_THEME: serif
 #+OPTIONS: toc:nil num:nil date:nil email:t 
-#+OPTIONS: reveal_title_slide:"<h1>%t</h1><br><h3>mz631@hunter.cuny.edu</h3><p><h3>@zamansky</h3>"
+#+OPTIONS: reveal_title_slide:"<h1>%t</h1><br><h3>mz631@hunter.cuny.edu</h3><p><h3>@zamansky</h3><h3>http://cestlaz.github.io</h3>"
 #+TITLE: Teacher Certification in NY
 #+AUTHOR: Mike Zamansky
 #+EMAIL: Email: mz631@hunter.cuny.edu<br>Twitter: @zamansky
