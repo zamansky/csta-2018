@@ -71,6 +71,7 @@ schools that teach kids over 13 can apply
 - Will work on standards
 #+BEGIN_NOTES
 - Why k12 is bad - too much for elementary teachers
+- Standards are for tests when you have good teachers
 #+END_NOTES
 
 * Why Hunter?
