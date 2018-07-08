@@ -128,7 +128,7 @@ schools that teach kids over 13 can apply
 
 #+BEGIN_NOTES
 - Full pipeline - students from before to after they leave you
-- Fill pipelnie - teachers - all the way to continuing pd
+- Fill pipeline - teachers - all the way to continuing pd
 - Modeling good teaching 
 - Modeling good CS
 - Daily digital / current events
