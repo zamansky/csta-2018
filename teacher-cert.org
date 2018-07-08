@@ -110,6 +110,7 @@ schools that teach kids over 13 can apply
 - content heavy pedagogy courses
 - choosing a language, other peoples code, code reading
 - Why curriculum course
+- On curriculum development why I don't believe in standards.
 - curriculum course and field work
 #+END_NOTES
 
