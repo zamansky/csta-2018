@@ -92,6 +92,7 @@ schools that teach kids over 13 can apply
 #+BEGIN_NOTES
 - curricula and frameworks  - talk about all of them
 - tools - must give teachers a practical set to start with
+- will talk about pipeline more later
 #+END_NOTES
 * Content
 - Depth
