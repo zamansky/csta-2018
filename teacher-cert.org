@@ -11,7 +11,6 @@
 
 - GitHub Teacher Training
   https://education.github.com/teachers/advisors
-
 - GitHub School Partners
   https://education.github.com/partners/schools 
 #+BEGIN_NOTES
@@ -29,6 +28,10 @@ schools that teach kids over 13 can apply
 
 #+BEGIN_NOTES
 - came in with minimal teacher prep
+- wouldn't hire myself
+- learned through apprenticeship
+- learned to be skeptical of "research"
+- go over how I was certified
 #+END_NOTES
 
 * NYC History
