@@ -100,6 +100,7 @@ schools that teach kids over 13 can apply
 - Fulfilling state requirements
 #+BEGIN_NOTES
 - talk about each bullet in depth 
+  - don't need algorithms but had to include it
 - no math for math teacher courses
 - talk about having to rename courses
 - roughly a minor - most areas require too many credits
@@ -111,6 +112,8 @@ schools that teach kids over 13 can apply
 #+BEGIN_NOTES
 - content heavy pedagogy courses
 - choosing a language, other peoples code, code reading
+- go over the tools/languages we teach and why
+- Modeling good teaching 
 - Why curriculum course
 - On curriculum development why I don't believe in standards.
 - curriculum course and field work
